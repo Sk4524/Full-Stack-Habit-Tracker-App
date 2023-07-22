@@ -3,7 +3,7 @@
 
 Habit Tracker is a web application that allows users to track their habits on a daily basis. It provides a simple and intuitive user interface for adding, managing, and viewing habits, along with their completion status for each day of the week.
 
-![Habit Tracker Screenshot](screenshot.png)
+
 
 ## Features
 
